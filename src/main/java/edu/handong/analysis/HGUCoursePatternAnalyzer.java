@@ -54,8 +54,10 @@ public class HGUCoursePatternAnalyzer {
 	 * @return
 	 */
 	private Student[] initiateStudentArrayFromLines(String[] lines) {
-		
-		// TODO: implement this method
+		for(int i=0; i< lines.length ; i++){
+			lines[i]
+		}
+		studentExist()
 		
 		
 		return null;
@@ -69,8 +71,8 @@ public class HGUCoursePatternAnalyzer {
 	 */
 	private boolean studentExist(Student[] students, Student student) {
 		
-		// TODO: implement this method
-
+		
+		
 		return false;
 	}
 	
